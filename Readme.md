@@ -11,7 +11,7 @@ Hi there! 👋 I'm **Rohit Bale**, a passionate **DevOps Engineer** who loves bu
 ### 🟦 **Cloud & Containerization**
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" />
+<img src="https://www.svgrepo.com/show/448299/aws.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" />
 </p>
@@ -80,3 +80,4 @@ If you want, I can also add:
 ✔️ Projects section with icons
 
 Just tell me and I’ll add them! 🚀
+
