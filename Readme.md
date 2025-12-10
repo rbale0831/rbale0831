@@ -6,59 +6,7 @@ Hi there! 👋 I'm **Rohit Bale**, a passionate **DevOps Engineer** who loves bu
 
 ---
 
-## 🚀 **Technical Skills (with Icons)**
-
-Here are all your core DevOps skills beautifully grouped with icons:
-
-### 🌐 **Cloud Technologies**
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" />
-</p>
-
-### ⚙️ **Infrastructure as Code & Automation**
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" />
-</p>
-
-### 🔄 **CI/CD Pipelines & DevOps Tools**
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="50" />
-</p>
-
-### 📈 **Monitoring & Logging**
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="50" />
-</p>
-
-### 💻 **Programming & Databases**
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
-</p>
-
-### 🐧 **Operating Systems**
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
-</p>
-
----
-
-## 🚀 **Tech Stack & Tools****
+## 🚀 **Tech Stack & Tools******
 
 ### 🟦 **Cloud & Containerization**
 
