@@ -1,37 +1,134 @@
-# Rohit Bale
+# 🌟 Rohit Bale
 
-**`Aspring Machine Learning Devloper | Data Scientist`**
+### **DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | Linux | Cloud Automation**
 
+Hi there! 👋 I'm **Rohit Bale**, a passionate **DevOps Engineer** who loves building scalable, automated, and reliable cloud infrastructure. I specialize in AWS, CI/CD pipelines, Kubernetes, and monitoring systems — and I enjoy solving real-world engineering problems with modern DevOps tooling.
 
-### 🧰 Languages and Tools
+---
 
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
-<!-- <img align="left" alt="Pytroch" width="30px" style="padding-right:10px;" src="<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/640px-PyTorch_logo_icon.svg"/> -->
-<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/28/601/png-transparent-sql-logo-illustration-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo.png" />
-<img align="left" alt="MySQL" width="30px" style="padding-right:10px;" src="https://www.svgrepo.com/show/303251/mysql-logo.svg" />
-<!-- <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" /> -->
-<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<br />
+## 🚀 **Technical Skills (with Icons)**
 
-#
+Here are all your core DevOps skills beautifully grouped with icons:
 
-### 📊 Stats
+### 🌐 **Cloud Technologies**
 
-<!-- ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox) -->
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" />
+</p>
 
+### ⚙️ **Infrastructure as Code & Automation**
 
-#
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" />
+</p>
 
-<details>
- <summary><h3>👨‍💻 Rohit's Coding Journey</h3></summary>
-   
-[website]: 
-[youtube]: 
+### 🔄 **CI/CD Pipelines & DevOps Tools**
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="50" />
+</p>
+
+### 📈 **Monitoring & Logging**
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="50" />
+</p>
+
+### 💻 **Programming & Databases**
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+</p>
+
+### 🐧 **Operating Systems**
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
+</p>
+
+---
+
+## 🚀 **Tech Stack & Tools****
+
+### 🟦 **Cloud & Containerization**
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" />
+</p>
+
+### 🛠️ **Infrastructure as Code & Automation**
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" />
+</p>
+
+### 🔁 **CI/CD & DevOps Tools**
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" width="50" />
+</p>
+
+### 📈 **Monitoring & Logging**
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="50" />
+</p>
+
+### 💻 **Programming & Databases**
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+</p>
+
+### 🐧 **Operating Systems**
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
+</p>
+
+---
+
+## 📊 **GitHub Stats**
+
+> (Optional — I can add beautiful dynamic GitHub stats cards if you want!)
+
+---
+
+## 👨‍💻 **About Me & Journey**
+
+I started my journey with programming and slowly transitioned into the world of cloud, DevOps, and automation. Over time, I built strong experience with AWS, containers, monitoring, and secure CI/CD pipelines.
+
+I enjoy:
+
+* Automating everything I can ⚙️
+* Designing reliable cloud architectures ☁️
+* Monitoring systems for performance & stability 📊
+* Learning new DevOps tools continuously 🚀
+
+If you want, I can also add:
+✔️ Badges (AWS, Kubernetes, Docker, Terraform)
+✔️ Animated GitHub Contribution Snake
+✔️ A top banner or animated header
+✔️ Projects section with icons
+
+Just tell me and I’ll add them! 🚀
