@@ -49,6 +49,9 @@ Please find the Work Experience resume here --> <a href="https://drive.google.co
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+<img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" width="50" />
+<img src="https://www.svgrepo.com/show/439231/mongodb.svg" width="50" />
+  
 </p>
 
 ### 🐧 **Operating Systems**
@@ -75,6 +78,7 @@ I enjoy:
 * Designing reliable cloud architectures ☁️
 * Monitoring systems for performance & stability 📊
 * Learning new DevOps tools continuously 🚀
+
 
 
 
