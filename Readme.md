@@ -1,6 +1,6 @@
 # 🌟 Rohit Bale
 
-### **DevOps Engineer | AWS | Kubernetes | Terraform | AWS CloudFormation | Docker | Jenkins | CI/CD | GitOps | ArgoCD | Prometheus | Grafana | Linux | SonarQube | OWASP | Bash and Python Scripting | ELK | Cloud Automation**
+### **DevOps Engineer | AWS | Kubernetes | Terraform | AWS CloudFormation | Docker | Jenkins | CI/CD | GitOps | ArgoCD | Prometheus | Grafana | Kafka | ELK | Linux | SonarQube | OWASP | Bash and Python Scripting | Cloud Automation**
 
 Hi there! 👋 I'm **Rohit Bale**, a passionate **DevOps Engineer** who loves building scalable, automated, and reliable cloud infrastructure. I specialize in AWS, CI/CD pipelines, Kubernetes, and monitoring systems — and I enjoy solving real-world engineering problems with modern DevOps tooling.
 
@@ -83,6 +83,7 @@ If you want, I can also add:
 ✔️ Projects section with icons
 
 Just tell me and I’ll add them! 🚀
+
 
 
 
