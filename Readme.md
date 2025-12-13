@@ -76,13 +76,7 @@ I enjoy:
 * Monitoring systems for performance & stability 📊
 * Learning new DevOps tools continuously 🚀
 
-If you want, I can also add:
-✔️ Badges (AWS, Kubernetes, Docker, Terraform)
-✔️ Animated GitHub Contribution Snake
-✔️ A top banner or animated header
-✔️ Projects section with icons
 
-Just tell me and I’ll add them! 🚀
 
 
 
