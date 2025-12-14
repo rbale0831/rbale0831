@@ -41,6 +41,8 @@ Please find the Work Experience resume here --> <a href="https://drive.google.co
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="50" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" width="50" />
+<img src="https://www.svgrepo.com/show/354010/logstash.svg" width="50" />
+<img src="https://www.svgrepo.com/show/353961/kibana.svg" width="50" />
 <img src="https://www.svgrepo.com/show/353950/kafka.svg" width="50" />
 </p>
 
@@ -78,6 +80,7 @@ I enjoy:
 * Designing reliable cloud architectures ☁️
 * Monitoring systems for performance & stability 📊
 * Learning new DevOps tools continuously 🚀
+
 
 
 
