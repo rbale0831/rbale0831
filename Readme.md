@@ -60,6 +60,10 @@ Please find the Work Experience resume here --> <a href="https://drive.google.co
 
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" />
+<img src="https://www.svgrepo.com/show/452122/ubuntu.svg" width="50" />
+<img src="https://www.svgrepo.com/show/355193/redhat.svg" width="50" />
+<img src="https://www.svgrepo.com/show/353543/centos-icon.svg" width="50" />
+
 </p>
 
 ---
@@ -80,6 +84,7 @@ I enjoy:
 * Designing reliable cloud architectures ☁️
 * Monitoring systems for performance & stability 📊
 * Learning new DevOps tools continuously 🚀
+
 
 
 
