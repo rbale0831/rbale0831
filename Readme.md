@@ -4,7 +4,7 @@
 
 Hi there! 👋 I'm **Rohit Bale**, a passionate **DevOps Engineer** who loves building scalable, automated, and reliable cloud infrastructure. I specialize in AWS, CI/CD pipelines, Kubernetes, and monitoring systems — and I enjoy solving real-world engineering problems with modern DevOps tooling.
 
-Please find the Work Experience resume here --> <a href="https://drive.google.com/file/d/1TtLz0IE4JTd5bk6A14Jt3jSY3vb_kyOY/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Click Here To View Resume</a>
+Please find the Work Experience resume here --> <a href="https://drive.google.com/file/d/1ixlExeR7Bj9NGurgEHeinB5CDxKnT0f9/view?usp=sharing" target="_blank" rel="noopener noreferrer">Click Here To View Resume</a>
 
 ---
 
